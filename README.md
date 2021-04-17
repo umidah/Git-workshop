@@ -1,5 +1,7 @@
 # Git Workshop Exercise
 
+This is a readme.md edit
+
 Objectives: Practice the git workflow
 
 ## Requirements:
